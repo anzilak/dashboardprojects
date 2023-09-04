@@ -1,0 +1,18 @@
+
+.pages{
+    display: flex;
+    flex-direction: column;
+}
+.pages a{
+    text-decoration: none;
+    color: black;
+    height: 40px;
+    padding: 10px 0 0 10px;
+}
+.pages a:hover{
+    background-color: aquamarine;
+}
+mat-icon{
+    vertical-align: middle;
+    margin-right: 13px;
+}
